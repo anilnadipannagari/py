@@ -1,0 +1,4 @@
+a=eval(input('enter a number'))
+if bool(a)==False:
+    print('it is the default value ')
+else:print('it is the not the default value')
