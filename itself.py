@@ -1,5 +1,10 @@
-num=eval(input('enter the number'))
-if num>=0:
-    print('your number',num+num)
+x=10
+if x>5:
+    print('a')
+    if x>15:
+     print('b')
+    else:
+     print('c')
 else:
-    print('square of the negative number',num**2)
+    print('d')
+         
